@@ -1,16 +1,24 @@
-# xylophone
+## 🎶 Xylophone - Play Melodies with a Touch
 
-A new Flutter project.
+**Todo App** is a mobile application that allows users to play the xylophone interactively and enjoyably. With its simple interface and high-quality audio features, this app delivers an engaging musical experience for everyone.
 
-## Getting Started
+## ✨ Key Features
 
-This project is a starting point for a Flutter application.
+- **🎵 Sound Playback: Play various xylophone notes simply by tapping on the screen
+- **🔊 Realistic Sound Effects: Enjoy clear and rich xylophone tones.
+- **🎨 Minimalist User Interface: A clean and intuitive design that makes navigation easy.
+- **📱 Responsive Interactivity: Each touch produces real-time audio feedback.
 
-A few resources to get you started if this is your first Flutter project:
+## 🎬 See It In Action
+https://github.com/user-attachments/assets/45f22698-b4ca-4c91-9caa-c365377107c5
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📞 Contact
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Have questions or suggestions? Feel free to reach out!
+
+---
+
+<p align="center">Made with ❤️ to spread the joy of music</p>
+
+
+
